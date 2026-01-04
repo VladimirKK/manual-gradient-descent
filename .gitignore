@@ -1,0 +1,14 @@
+# Системные файлы macOS
+.DS_Store
+
+# Файлы контрольных точек Jupyter Notebook
+.ipynb_checkpoints/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Файлы окружения (никогда не коммитьте пароли!)
+.env
+*.env
+
